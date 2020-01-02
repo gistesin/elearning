@@ -1,39 +1,48 @@
-## Vítejte na stránkách věnovaným
+## Stránky o informatice a geoinformatice
 
-You can use the [editor on GitHub](https://github.com/gistesin/stranky/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tyto stránky slouží nejenom jako **studijní materiál**, ale i jako "uzel" pro výměnu informací v předmětech informatika a počítačová grafika ve všech ročnících.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Informatika 5. ročník
 
-### Markdown
+Pro učení se základům programování nám slouží program Scratch, který si můžete stáhnout bezplatně na [domovských stránkách programu Scratch](https://scratch.mit.edu/download).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Již máme probráno**:    
+1. základní příkazy pro spuštění programu a pohyb avatara
+2. editace avatara a pozadí
+3. smyčky a jejich aplikace
+4. skupinu příkazů pero a zvuky
 
-[Znázorňování výškopisu pomocí vrstevnic](Určování nadmořské výšky pomocí vrstevnic.pdf)
+Příklad jednoduchého programu na použití smyčky si můžete [stáhnout zde.]() (Jakékoliv návrhy na jeho vylepšení budou vítány)
 
-```markdown
-Syntax highlighted code block
+### Informatika 6. ročník
 
-# Header 1
-## Header 2
-### Header 3
+Pokračujeme v zásadách správného prezentování. Výčet těch nejzákladnějších:
 
-- Bulleted
-- List
+1. Představení se a krátký úvod k obsahu prezentace
+2. Oční kontakt s posluchači
+3. Mluvíme nahlas a zřetelně
+4. Prezentaci nečteme doslovně z tabule
+5. Pro lepší názornost můžeme použít ukazovátko
+6. Poděkujeme za pozornost
 
-1. Numbered
-2. List
+**Tyto zásady neuplatňujeme pouze v informatice, ale i kdekoliv jinde.**
 
-**Bold** and _Italic_ and `Code` text
+### Informatika 7. ročník
 
-[Link](url) and ![Image](src)
-```
+Prohlubování dosavadních dovedností v programu MS Excel. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Správné řešení úkolu z minulé hodiny je  [dostupné zde.]()
 
-### Jekyll Themes
+### Zeměpis 6. ročník
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gistesin/stranky/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Zaměřujeme se především na práci s atlasem a získávání podstatných informací z tematických map. Studijní materiál týkající se čtení vrstevnic je [dostupné zde.](Určování nadmořské výšky pomocí vrstevnic.pdf)
 
-### Support or Contact
+Zájemci o problematiku grafů nevynechají [článek zabývající se manipulací a zkreslováním dat](https://www.idnes.cz/technet/veda/manipulace-grafy-statistika.A151023_164547_veda_pka). Dobrovolník si na toto téma může připravit referát. (po předchozí domluvě)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Počítačová grafika 9. ročník
+
+Ukázka názvu třídy při použití dodatečných modifikátorů. (Subdivision surface)
+
+![6.B](src)
