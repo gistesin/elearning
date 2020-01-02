@@ -31,7 +31,7 @@ Pokračujeme v zásadách správného prezentování. Výčet těch nejzákladn�
 
 Prohlubování dosavadních dovedností v programu MS Excel. 
 
-Správné řešení úkolu z minulé hodiny je [dostupné zde.](Statistické funkce.xlsx)
+Správné řešení úkolu z minulé hodiny je [dostupný zde.](Statistické funkce.xlsx)
 
 ### Zeměpis 6. ročník
 
@@ -43,7 +43,9 @@ Zájemci o problematiku grafů nevynechají [článek zabývající se manipulac
 
 ### Počítačová grafika 9. ročník
 
-Ukázka modelování jednoduché vázy při použití dodatečných modifikátorů. (Subdivision surface) 
-Na této úrovni už bychom měli být všichni.
+Program Blender si můžete bezplatně [stáhnout zde.](https://www.blender.org/download/)
 
-![Skleněná váza](Skleněná váza.jpg)
+Ukázky modelování jednoduché vázy při použití dodatečných modifikátorů. (Subdivision surface) 
+Na této úrovni už bychom měli být všichni. (cycles render, 200 samples, denoising enabled)
+
+![Skleněná váza](Skleněná váza.jpg) ![Keramická váza](Keramická váza.jpg)
