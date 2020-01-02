@@ -45,4 +45,4 @@ Zájemci o problematiku grafů nevynechají [článek zabývající se manipulac
 
 Ukázka názvu třídy při použití dodatečných modifikátorů. (Subdivision surface)
 
-![6.B](src)
+![6.B](Nápis 6.B - colorized.tif)
