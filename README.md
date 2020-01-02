@@ -1,4 +1,4 @@
-## Stránky o informatice a geoinformatice
+## Stránky se studijními materiály, články a odkazy na jednom místě
 
 Tyto stránky slouží nejenom jako **studijní materiál**, ale i jako "uzel" pro výměnu informací v předmětech informatika a počítačová grafika ve všech ročnících.
 
