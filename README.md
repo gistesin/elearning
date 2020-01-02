@@ -47,5 +47,6 @@ Program Blender si můžete bezplatně [stáhnout zde.](https://www.blender.org/
 
 Ukázky modelování jednoduché vázy při použití dodatečných modifikátorů. (Subdivision surface) 
 Na této úrovni už bychom měli být všichni. (cycles render, 200 samples, denoising enabled)
+Vlevo materiál sklo, vpravo Principled BSDF.
 
 ![Skleněná váza](Skleněná váza.jpg) ![Keramická váza](Keramická váza.jpg)
