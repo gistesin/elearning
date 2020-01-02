@@ -45,4 +45,4 @@ Zájemci o problematiku grafů nevynechají [článek zabývající se manipulac
 
 Ukázka názvu třídy při použití dodatečných modifikátorů. (Subdivision surface)
 
-![6.B](skleněná váza.png)
+![6.B](Skleněná váza.jpg)
