@@ -43,6 +43,7 @@ Zájemci o problematiku grafů nevynechají [článek zabývající se manipulac
 
 ### Počítačová grafika 9. ročník
 
-Ukázka modelování jednoduché vázy při použití dodatečných modifikátorů. (Subdivision surface) Na této úrovni už bychom měli být všichni.
+Ukázka modelování jednoduché vázy při použití dodatečných modifikátorů. (Subdivision surface) 
+Na této úrovni už bychom měli být všichni.
 
 ![Skleněná váza](Skleněná váza.jpg)
