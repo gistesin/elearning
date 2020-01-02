@@ -31,7 +31,7 @@ Pokračujeme v zásadách správného prezentování. Výčet těch nejzákladn�
 
 Prohlubování dosavadních dovedností v programu MS Excel. 
 
-Správné řešení úkolu z minulé hodiny je [dostupný zde.](Statistické funkce.xlsx)
+Správné řešení úkolu z minulé hodiny je [dostupné zde.](Statistické funkce.xlsx)
 
 ### Zeměpis 6. ročník
 
