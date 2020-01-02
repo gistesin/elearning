@@ -12,7 +12,7 @@ Pro učení se základům programování nám slouží program Scratch, který s
 3. smyčky a jejich aplikace
 4. skupinu příkazů pero a zvuky
 
-Příklad jednoduchého programu na použití smyčky si můžete [stáhnout zde.]() (Jakékoliv návrhy na jeho vylepšení budou vítány)
+Příklad jednoduchého programu na použití smyčky si můžete [stáhnout zde.](Dvojité salto.sb) (Jakékoliv návrhy na jeho vylepšení budou vítány)
 
 ### Informatika 6. ročník
 
@@ -43,6 +43,6 @@ Zájemci o problematiku grafů nevynechají [článek zabývající se manipulac
 
 ### Počítačová grafika 9. ročník
 
-Ukázka názvu třídy při použití dodatečných modifikátorů. (Subdivision surface)
+Ukázka modelování designové vázy při použití dodatečných modifikátorů. (Subdivision surface) Na této úrovni už bychom měli být všichni.
 
-![6.B](Skleněná váza.jpg)
+![Skleněná váza](Skleněná váza.jpg)
