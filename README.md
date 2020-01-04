@@ -35,15 +35,23 @@ Správné řešení úkolu z minulé hodiny je [dostupné zde.](Statistické fun
 
 ### Zeměpis 6. ročník
 
-Zaměřujeme se především na práci s atlasem a získávání podstatných informací z tematických map. Studijní materiál týkající se čtení vrstevnic je [dostupné zde.](Určování nadmořské výšky pomocí vrstevnic.pdf)
+Zaměřujeme se především na práci s atlasem a získávání podstatných informací z tematických map. Studijní materiál týkající se čtení vrstevnic je [dostupný zde.](Určování nadmořské výšky pomocí vrstevnic.pdf)
 
 Zájemci o problematiku grafů nevynechají [článek zabývající se manipulací a zkreslováním dat](https://www.idnes.cz/technet/veda/manipulace-grafy-statistika.A151023_164547_veda_pka). Dobrovolník si na toto téma může připravit referát. (po předchozí domluvě)
 
+### Počítačová grafika 7. ročník
 
+Program Inkscape si můžete bezplatně [stáhnout zde.](https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/)
+Jako návod a zdroj inspirace nám pak slouží stránky [AbcLinuxu.cz](https://www.abclinuxu.cz/serialy/inkscape)
+
+Dokončujeme vektorovou grafiku, reprezentovanou programem Inkscape.
 
 ### Počítačová grafika 9. ročník
 
+![6b](6b.tif)
+
 Program Blender si můžete bezplatně [stáhnout zde.](https://www.blender.org/download/)
+Oficiální manuál [najdete zde.](https://docs.blender.org/manual/en/latest/index.html)
 
 Ukázky modelování jednoduché vázy při použití dodatečných modifikátorů. (Subdivision surface) 
 Na této úrovni už bychom měli být všichni. (cycles render, 200 samples, denoising enabled)
