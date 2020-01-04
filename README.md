@@ -48,7 +48,7 @@ Dokončujeme vektorovou grafiku, reprezentovanou programem Inkscape.
 
 ### Počítačová grafika 9. ročník
 
-![6b](6b.tif)
+![6b](6b.jpg)
 
 Program Blender si můžete bezplatně [stáhnout zde.](https://www.blender.org/download/)
 Oficiální manuál [najdete zde.](https://docs.blender.org/manual/en/latest/index.html)
