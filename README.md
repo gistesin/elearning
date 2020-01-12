@@ -16,6 +16,8 @@ Příklad jednoduchého programu na použití smyčky si můžete [stáhnout zde
 
 ### Informatika 6. ročník
 
+Jako studijní opora nám slouží [oficiální stránky podpory MS PowerPoint](https://support.office.com/cs-cz/powerpoint)
+
 Pokračujeme v zásadách správného prezentování. Výčet těch nejzákladnějších:
 
 1. Představení se a krátký úvod k obsahu prezentace
@@ -29,7 +31,8 @@ Pokračujeme v zásadách správného prezentování. Výčet těch nejzákladn�
 
 ### Informatika 7. ročník
 
-Prohlubování dosavadních dovedností v programu MS Excel. 
+Prohlubování dosavadních dovedností v programu MS Excel. Jako studijní opora nám slouží [oficiální stránky podpory MS Excel](https://support.office.com/cs-cz/excel)
+
 
 Správné řešení úkolu z minulé hodiny je [dostupné zde.](Statistické funkce.xlsx)
 
@@ -49,6 +52,8 @@ Dokončujeme vektorovou grafiku, reprezentovanou programem Inkscape.
 ### Počítačová grafika 9. ročník
 
 ![6b](6b.jpg)
+
+Stále přijímám Vaše sochařské výtvory (zvláště pro od těch, kterým chybí známky; konzultace po domluvě.)
 
 Program Blender si můžete bezplatně [stáhnout zde.](https://www.blender.org/download/)
 Oficiální manuál [najdete zde.](https://docs.blender.org/manual/en/latest/index.html)
