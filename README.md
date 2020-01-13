@@ -27,7 +27,7 @@ Pokračujeme v zásadách správného prezentování. Výčet těch nejzákladn�
 5. Pro lepší názornost můžeme použít ukazovátko
 6. Poděkujeme za pozornost
 
-Příklad prezentace publikovatelné ve formátu mdn je k [náhledu zde](Metody na měření času.mdn)
+Příklad prezentace publikovatelné ve formátu mdn je k [náhledu zde](Metody na měření času.pptx)
 
 **Tyto zásady neuplatňujeme pouze v informatice, ale i kdekoliv jinde.**
 
