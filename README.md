@@ -35,7 +35,7 @@ Příklad prezentace publikovatelné ve formátu mdn je k [náhledu zde](Metody 
 
 Prohlubování dosavadních dovedností v programu MS Excel. Jako studijní opora nám slouží [oficiální stránky podpory MS Excel](https://support.office.com/cs-cz/excel)
 
-Vzor testu, který bude probíhat v týdnu od 20.1. do 24.1.2020 ke [stažení zde.](Test - vzor.xlxs)
+Vzor testu, který bude probíhat v týdnu od 20.1. do 24.1.2020 ke [stažení zde.](Test - vzor.xlsx)
 
 Správné řešení úkolu z minulé hodiny je [dostupné zde.](Statistické funkce.xlsx)
 
