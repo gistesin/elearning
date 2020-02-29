@@ -4,6 +4,20 @@ Tyto stránky slouží nejenom jako **studijní materiál**, ale i jako "uzel" p
 
 ### Informatika 5. ročník
 
+## MS Word 2010
+
+Jako studijní materiál nám pro začátek postačí webový manuál na stránkách [fotopulos.net](http://word-navod.fotopulos.net/word-2010/zaklad.html#z1).
+
+**Již máme probráno**:
+1.  orientuji se v uživatelském prostředí programu
+2.  píši spisovné české věty
+3.  vkládám obrázky, automatické tvary a kliparty
+4.  umím základní formátování textu (nadpis, velikost a barva písma, motivy písma, tučné, kurzíva, podtržení)
+5.  zarovnávám text
+6.  pracuji s odrážkami v textu
+
+Již zvládáme základní orientaci v uživatelském prostředí programu
+
 Pro učení se základům programování nám slouží program Scratch, který si můžete stáhnout bezplatně na [domovských stránkách programu Scratch](https://scratch.mit.edu/download).
 
 **Již máme probráno**:    
