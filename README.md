@@ -47,11 +47,10 @@ Příklad prezentace publikovatelné ve formátu mdn je k [náhledu zde](Metody 
 
 ### Informatika 7. ročník
 
-Prohlubování dosavadních dovedností v programu MS Excel. Jako studijní opora nám slouží [oficiální stránky podpory MS Excel](https://support.office.com/cs-cz/excel)
+Pro zopakování učiva na téma internet se podívejte na video [dostupné zde.](https://www.youtube.com/watch?v=L05HGoaDkRo)
 
-Vzor testu, který bude probíhat v týdnu od 20.1. do 24.1.2020 ke [stažení zde.](Test - vzor.xlsx)
-
-Správné řešení úkolu z minulé hodiny je [dostupné zde.](Statistické funkce.xlsx)
+Pro seznámení se s pojmy webový server a FTP klint použijte vyhledávač v IT slovníku [zde.](https://it-slovnik.cz/pojem/ftp)
+Anglicky mluvené video, které vysvětluje pojem FTP klient je [dostupné zde.](https://www.youtube.com/watch?v=PeiXwNHEJo0)
 
 ### Zeměpis 6. ročník
 
@@ -59,7 +58,7 @@ Zaměřujeme se především na práci s atlasem a získávání podstatných in
 
 Zájemci o problematiku grafů nevynechají [článek zabývající se manipulací a zkreslováním dat](https://www.idnes.cz/technet/veda/manipulace-grafy-statistika.A151023_164547_veda_pka). Dobrovolník si na toto téma může připravit referát. (po předchozí domluvě)
 
-## Odkazy na interaktivní prezentace
+### Odkazy na interaktivní prezentace
 
 Součástí každé prezentace jsou otázky, pole s možností kladení otázek vyučujícímu a pole sloužící pro Váš podpis
 
