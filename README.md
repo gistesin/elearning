@@ -49,7 +49,7 @@ Příklad prezentace publikovatelné ve formátu mdn je k [náhledu zde](Metody 
 
 Pro zopakování učiva na téma internet se podívejte na video [dostupné zde.](https://www.youtube.com/watch?v=L05HGoaDkRo)
 
-Pro seznámení se s pojmy webový server a FTP klint použijte vyhledávač v IT slovníku [zde.](https://it-slovnik.cz/pojem/ftp)
+Pro seznámení se s pojmy webový server a FTP klient použijte vyhledávač v IT slovníku [zde.](https://it-slovnik.cz/pojem/ftp)
 Anglicky mluvené video, které vysvětluje pojem FTP klient je [dostupné zde.](https://www.youtube.com/watch?v=PeiXwNHEJo0)
 
 ### Zeměpis 6. ročník
