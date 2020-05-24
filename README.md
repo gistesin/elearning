@@ -59,6 +59,20 @@ Zaměřujeme se především na práci s atlasem a získávání podstatných in
 
 Zájemci o problematiku grafů nevynechají [článek zabývající se manipulací a zkreslováním dat](https://www.idnes.cz/technet/veda/manipulace-grafy-statistika.A151023_164547_veda_pka). Dobrovolník si na toto téma může připravit referát. (po předchozí domluvě)
 
+## Odkazy na interaktivní prezentace
+
+Součástí každé prezentace jsou otázky, pole s možností kladení otázek vyučujícímu a pole sloužící pro Váš podpis
+
+# Biomy:
+
+[Biosféra, TDL](https://ahaslides.com/0D12A)
+[Monzunové lesy, Savany](https://ahaslides.com/A8F67)
+[Pouště a polopouště](https://ahaslides.com/79833)
+[Subtropy s obdobím zimních dešťů (Středomořská krajina)](https://ahaslides.com/5685A)
+[Stepi](https://ahaslides.com/C25AE)
+[Lesy mírného pásu](https://ahaslides.com/741E1)
+[Tajga](https://ahaslides.com/FFDCC)
+
 ### Počítačová grafika 7. ročník
 
 Program Inkscape si můžete bezplatně [stáhnout zde.](https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/)
