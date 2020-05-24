@@ -63,15 +63,14 @@ Zájemci o problematiku grafů nevynechají [článek zabývající se manipulac
 
 Součástí každé prezentace jsou otázky, pole s možností kladení otázek vyučujícímu a pole sloužící pro Váš podpis
 
-# Biomy:
-
-[Biosféra, TDL](https://ahaslides.com/0D12A)
-[Monzunové lesy, Savany](https://ahaslides.com/A8F67)
-[Pouště a polopouště](https://ahaslides.com/79833)
-[Subtropy s obdobím zimních dešťů (Středomořská krajina)](https://ahaslides.com/5685A)
-[Stepi](https://ahaslides.com/C25AE)
-[Lesy mírného pásu](https://ahaslides.com/741E1)
-[Tajga](https://ahaslides.com/FFDCC)
+**Biomy**:
+1.  [Biosféra, TDL](https://ahaslides.com/0D12A)
+2.  [Monzunové lesy, Savany](https://ahaslides.com/A8F67)
+3.  [Pouště a polopouště](https://ahaslides.com/79833)
+4.  [Subtropy s obdobím zimních dešťů (Středomořská krajina)](https://ahaslides.com/5685A)
+5.  [Stepi](https://ahaslides.com/C25AE)
+6.  [Lesy mírného pásu](https://ahaslides.com/741E1)
+7.  [Tajga](https://ahaslides.com/FFDCC)
 
 ### Počítačová grafika 7. ročník
 
