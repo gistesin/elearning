@@ -71,6 +71,8 @@ Součástí každé prezentace jsou otázky, pole s možností kladení otázek 
 6.  [Lesy mírného pásu](https://ahaslides.com/741E1)
 7.  [Tajga](https://ahaslides.com/FFDCC)
 8.  [Tundra](https://ahaslides.com/1D644)
+9.  [Polární pustina](https://ahaslides.com/DB4FD)
+10. [Světový oceán](https://ahaslides.com/124F9)
 
 ### Počítačová grafika 7. ročník
 
