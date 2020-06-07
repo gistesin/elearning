@@ -28,6 +28,10 @@ Pro učení se základům programování nám slouží program Scratch, který s
 
 Příklad jednoduchého programu na použití smyčky si můžete [stáhnout zde.](Dvojité salto.sb) (Jakékoliv návrhy na jeho vylepšení budou vítány)
 
+**Grafické programy**
+
+Návod na základy práce v programu Malování [najdete zde.] (https://www.cistepc.cz/jak-kreslit-na-pocitaci-v-programu-malovani/)
+
 ### Informatika 6. ročník
 
 Jako studijní opora nám slouží [oficiální stránky podpory MS PowerPoint](https://support.office.com/cs-cz/powerpoint)
@@ -45,12 +49,18 @@ Příklad prezentace publikovatelné ve formátu mdn je k [náhledu zde](Metody 
 
 **Tyto zásady neuplatňujeme pouze v informatice, ale i kdekoliv jinde.**
 
+Webové stránky na procvičení práce s Bezerovou křivkou [najdete zde.](https://cubic-bezier.com/)
+
 ### Informatika 7. ročník
 
 Pro zopakování učiva na téma internet se podívejte na video [dostupné zde.](https://www.youtube.com/watch?v=L05HGoaDkRo)
 
 Pro seznámení se s pojmy webový server a FTP klient použijte vyhledávač v IT slovníku [zde.](https://it-slovnik.cz/pojem/ftp)
 Anglicky mluvené video, které vysvětluje pojem FTP klient je [dostupné zde.](https://www.youtube.com/watch?v=PeiXwNHEJo0)
+
+***Redakční systémy***
+
+Stručná charakteristika a rešerše na toto téma [najdete zde.](https://pajskr.cz/jaky-vybrat-redakcni-system/)
 
 ### Zeměpis 6. ročník
 
@@ -73,6 +83,10 @@ Součástí každé prezentace jsou otázky, pole s možností kladení otázek 
 8.  [Tundra](https://ahaslides.com/1D644)
 9.  [Polární pustina](https://ahaslides.com/DB4FD)
 10. [Světový oceán](https://ahaslides.com/124F9)
+
+**Afrika**:
+1.  [Úvod do Afriky](	https://ahaslides.com/DEA6F)
+1.  [Fyzická geografie Afriky](https://ahaslides.com/5B031)
 
 ### Počítačová grafika 7. ročník
 
