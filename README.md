@@ -2,9 +2,9 @@
 
 Tyto stránky slouží nejenom jako **studijní materiál**, ale i jako "uzel" pro výměnu informací v předmětech informatika a počítačová grafika ve všech ročnících.
 
-### Informatika 5. ročník
+## Informatika 5. ročník
 
-## MS Word 2010
+### MS Word 2010
 
 Jako studijní materiál nám pro začátek postačí webový manuál na stránkách [fotopulos.net](http://word-navod.fotopulos.net/word-2010/zaklad.html#z1).
 
@@ -30,9 +30,9 @@ Příklad jednoduchého programu na použití smyčky si můžete [stáhnout zde
 
 **Grafické programy**
 
-Návod na základy práce v programu Malování [najdete zde.] (https://www.cistepc.cz/jak-kreslit-na-pocitaci-v-programu-malovani/)
+Návod na základy práce v programu Malování [najdete zde.](https://www.cistepc.cz/jak-kreslit-na-pocitaci-v-programu-malovani/)
 
-### Informatika 6. ročník
+## Informatika 6. ročník
 
 Jako studijní opora nám slouží [oficiální stránky podpory MS PowerPoint](https://support.office.com/cs-cz/powerpoint)
 
@@ -51,7 +51,7 @@ Příklad prezentace publikovatelné ve formátu mdn je k [náhledu zde](Metody 
 
 Webové stránky na procvičení práce s Bezerovou křivkou [najdete zde.](https://cubic-bezier.com/)
 
-### Informatika 7. ročník
+## Informatika 7. ročník
 
 Pro zopakování učiva na téma internet se podívejte na video [dostupné zde.](https://www.youtube.com/watch?v=L05HGoaDkRo)
 
@@ -62,7 +62,7 @@ Anglicky mluvené video, které vysvětluje pojem FTP klient je [dostupné zde.]
 
 Stručná charakteristika a rešerše na toto téma [najdete zde.](https://pajskr.cz/jaky-vybrat-redakcni-system/)
 
-### Zeměpis 6. ročník
+## Zeměpis 6. ročník
 
 Zaměřujeme se především na práci s atlasem a získávání podstatných informací z tematických map. Studijní materiál týkající se čtení vrstevnic je [dostupný zde.](Určování nadmořské výšky pomocí vrstevnic.pdf)
 
@@ -88,14 +88,14 @@ Součástí každé prezentace jsou otázky, pole s možností kladení otázek 
 1.  [Úvod do Afriky](	https://ahaslides.com/DEA6F)
 1.  [Fyzická geografie Afriky](https://ahaslides.com/5B031)
 
-### Počítačová grafika 7. ročník
+## Počítačová grafika 7. ročník
 
 Program Inkscape si můžete bezplatně [stáhnout zde.](https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/)
 Jako návod a zdroj inspirace nám pak slouží stránky [AbcLinuxu.cz](https://www.abclinuxu.cz/serialy/inkscape)
 
 Dokončujeme vektorovou grafiku, reprezentovanou programem Inkscape.
 
-### Počítačová grafika 9. ročník
+## Počítačová grafika 9. ročník
 
 ![6b](6b.jpg)
 
