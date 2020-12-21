@@ -2,3 +2,40 @@
 body {
 font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
 }
+td, th {
+  width: 7rem;
+  height: 4rem;
+  border: 4px solid #ccc;
+  text-align: center;
+}
+th {
+  background: lightblue;
+  border-color: white;
+}
+body {
+  padding: 3rem;
+}
+.center {
+margin-left: auto;
+margin-right: auto;
+}
+.thcolor1 {
+background: palegreen;
+border-color: grey
+}
+.thcolor2 {
+background: gold;
+border-color: yellow
+}
+.thcolor3 {
+background: khaki;
+border-color: tomato
+}
+.thcolor4 {
+background: navajowhite;
+border-color: maroon
+}
+.thcolor5 {
+background: azure;
+border-color: lightsteelblue
+}
